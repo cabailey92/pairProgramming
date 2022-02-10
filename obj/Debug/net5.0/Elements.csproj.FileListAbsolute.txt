@@ -1,0 +1,16 @@
+C:\Users\Nicolej\Documents\CF127FT\codingFoundations\assignments\pairProgramming\obj\Debug\net5.0\Elements.csproj.AssemblyReference.cache
+C:\Users\Nicolej\Documents\CF127FT\codingFoundations\assignments\pairProgramming\obj\Debug\net5.0\Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolej\Documents\CF127FT\codingFoundations\assignments\pairProgramming\obj\Debug\net5.0\Elements.AssemblyInfoInputs.cache
+C:\Users\Nicolej\Documents\CF127FT\codingFoundations\assignments\pairProgramming\obj\Debug\net5.0\Elements.AssemblyInfo.cs
+C:\Users\Nicolej\Documents\CF127FT\codingFoundations\assignments\pairProgramming\obj\Debug\net5.0\Elements.csproj.CoreCompileInputs.cache
+C:\Users\Nicolej\Documents\CF127FT\codingFoundations\assignments\pairProgramming\bin\Debug\net5.0\Elements.exe
+C:\Users\Nicolej\Documents\CF127FT\codingFoundations\assignments\pairProgramming\bin\Debug\net5.0\Elements.deps.json
+C:\Users\Nicolej\Documents\CF127FT\codingFoundations\assignments\pairProgramming\bin\Debug\net5.0\Elements.runtimeconfig.json
+C:\Users\Nicolej\Documents\CF127FT\codingFoundations\assignments\pairProgramming\bin\Debug\net5.0\Elements.runtimeconfig.dev.json
+C:\Users\Nicolej\Documents\CF127FT\codingFoundations\assignments\pairProgramming\bin\Debug\net5.0\Elements.dll
+C:\Users\Nicolej\Documents\CF127FT\codingFoundations\assignments\pairProgramming\bin\Debug\net5.0\ref\Elements.dll
+C:\Users\Nicolej\Documents\CF127FT\codingFoundations\assignments\pairProgramming\bin\Debug\net5.0\Elements.pdb
+C:\Users\Nicolej\Documents\CF127FT\codingFoundations\assignments\pairProgramming\obj\Debug\net5.0\Elements.dll
+C:\Users\Nicolej\Documents\CF127FT\codingFoundations\assignments\pairProgramming\obj\Debug\net5.0\ref\Elements.dll
+C:\Users\Nicolej\Documents\CF127FT\codingFoundations\assignments\pairProgramming\obj\Debug\net5.0\Elements.pdb
+C:\Users\Nicolej\Documents\CF127FT\codingFoundations\assignments\pairProgramming\obj\Debug\net5.0\Elements.genruntimeconfig.cache
